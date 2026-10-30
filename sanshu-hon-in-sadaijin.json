@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/hon-in-sadaijin",
  "yomi": "ほんいんのさだいじんけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（前栽合）",
+  "era": "延喜年間（905〜908）頃",
+  "author": "主催 藤原時平",
+  "desc": "本院左大臣藤原時平の家の歌合。撫子・女郎花・山橘・薄・紅葉・竹など秋の草木を題とし、判詞はない。右の歌が欠けた題もある。"
+ },
  "editions": [
   {
    "pid": "1128193",
